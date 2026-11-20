@@ -1,0 +1,5 @@
+pandas
+matplotlib
+request
+pytorch
+pathlib
